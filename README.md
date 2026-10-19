@@ -7,6 +7,31 @@
 
 > 实测跟着gpt来确实可以部署（实在不会把我融了问gpt）
 
+
+##创建api，交给大肥鱼，完工
+<img width="2559" height="340" alt="image" src="https://github.com/user-attachments/assets/45201fde-c0bd-4477-bc3b-6a38d6ee1758" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##以下是废话，不用看
+
+
+
+
 ## 目录
 
 - [一、项目概览](#一项目概览)
